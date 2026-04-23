@@ -1,0 +1,4 @@
+[submodule "bktbicipublica"]
+	path = bktbicipublica
+	url = git@git.vauxoo.com:vauxoo/bktbicipublica.git
+	branch = 19.0

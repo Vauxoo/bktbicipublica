@@ -18,3 +18,7 @@
 	path = maintenance
 	url = git@github.com:OCA/maintenance.git
 	branch = 19.0
+[submodule "fleet"]
+	path = fleet
+	url = git@github.com:OCA/fleet.git
+	branch = 19.0

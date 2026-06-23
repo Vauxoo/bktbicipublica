@@ -22,3 +22,7 @@
 	path = fleet
 	url = git@github.com:OCA/fleet.git
 	branch = 19.0
+[submodule "stock-logistics-request"]
+	path = stock-logistics-request
+	url = git@github.com:OCA/stock-logistics-request.git
+	branch = 19.0

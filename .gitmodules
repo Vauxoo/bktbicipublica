@@ -2,3 +2,7 @@
 	path = bktbicipublica
 	url = git@git.vauxoo.com:vauxoo/bktbicipublica.git
 	branch = 19.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 19.0
